@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_bg">#F3F4F6</color>
+    <color name="brand">#0078D4</color>
+    <color name="launcher_background">#F7E3C8</color>
+
+    <color name="surface">#FFFFFF</color>
+    <color name="surface2">#F5F7FA</color>
+    <color name="line">#E6E8EC</color>
+
+    <color name="text_primary">#111827</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="text_tertiary">#9CA3AF</color>
+
+    <color name="accent">#0078D4</color>
+    <color name="accent2">#2B95FF</color>
+    <color name="accent_soft">#1A0078D4</color>
+
+    <color name="green">#10B981</color>
+    <color name="red">#EF4444</color>
+    <color name="amber">#F59E0B</color>
+    <color name="amber_soft">#1FF59E0B</color>
+
+    <color name="track_off">#D5D9E0</color>
+    <color name="check_border">#CFD4DC</color>
+    <color name="badge_bg">#940A0C10</color>
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="glass_top">#F2F8FDFF</color>
+    <color name="glass_center">#E6EFF8FF</color>
+    <color name="glass_bottom">#E6DFEAF5</color>
+    <color name="glass_stroke">#99A9BDD1</color>
+    <color name="glass_glow">#80FFFFFF</color>
+    <color name="glass_rim">#F2FFFFFF</color>
+
+    <color name="logo_tile_top">#F8FBFF</color>
+    <color name="logo_tile_bottom">#E2EEFB</color>
+    <color name="logo_tile_line">#D5E4F2</color>
+    <color name="download_disabled_bg">#E4EDF6</color>
+</resources>

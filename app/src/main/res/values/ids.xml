@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tag_image_url" type="id" />
+    <item name="tag_chip_dot" type="id" />
+    <item name="tag_chip_label" type="id" />
+    <item name="tag_chip_source" type="id" />
+</resources>

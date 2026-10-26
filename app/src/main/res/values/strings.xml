@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DSH-MD</string>
+    <string name="widget_description">本地播放器组件</string>
+</resources>
